@@ -1,29 +1,5 @@
 # library-management
 
-## Project setup
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Run your tests
-```
-npm run test
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+使用vue-cli+element-ui编写的网页，只完成了前端。
++ 点击部分按钮只会弹出提示框，没有具体动作
++ 使用的数据都是重复的，只是做个效果
